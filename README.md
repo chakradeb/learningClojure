@@ -1,0 +1,3 @@
+# learningClojure
+
+This repo is all about learning functional programming...
